@@ -164,7 +164,7 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr;
-    gap: 5rem;
+    gap: 4rem;
     margin: 2rem 0rem;
 }
 
